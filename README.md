@@ -20,3 +20,4 @@ The framework is under fast, active development to support rapid
 analytics relating to COVID-19; we're currently seeking funding to make
 it easier for outside collaborators to work with our system.  You can read more 
 about the OpenSAFELY platform and our future plans at [OpenSAFELY.org](https://opensafely.org).
+
